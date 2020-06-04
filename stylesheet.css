@@ -26,12 +26,14 @@ a {
 }
 
 .top-wrapper h1 {
+  color: blue;
   opacity: 1;
   font-size: 45px;
   letter-spacing: 5px;
 }
 
 .top-wrapper p {
+  color: blue:
   opacity: 0.9;
   font-size: 16px;
   margin-bottom: 40px;
