@@ -21,19 +21,17 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(498B5FD9-7B22-4256-95DC-CE36D70326E4_1_105_c.jpeg);
   background-size: cover;
-  color: blue;
+  color: #0000FF;
   text-align: center;
 }
 
 .top-wrapper h1 {
-  color: blue;
   opacity: 1;
   font-size: 45px;
   letter-spacing: 5px;
 }
 
 .top-wrapper p {
-  color: blue:
   opacity: 0.9;
   font-size: 16px;
   margin-bottom: 40px;
