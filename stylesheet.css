@@ -248,8 +248,9 @@ footer {
 
   .top-wrapper {
     text-align: left;
-    background-size: cover;
+    background-size: contain;
     background-repeat: no-repeat;
+    
     
   }
 
