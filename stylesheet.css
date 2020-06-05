@@ -252,7 +252,7 @@ footer {
     background-repeat: no-repeat;
     padding: 180px auto 100px auto;
     margin-top: 50px;
-    
+    overflow: hidden;
   }
 
   .top-wrapper h1 {
